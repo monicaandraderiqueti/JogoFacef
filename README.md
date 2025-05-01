@@ -10,7 +10,7 @@ as imagens abaixo apresentam os objetos visuais utilizados no desenvolvimento:
 
 ![sprite decoration](https://github.com/user-attachments/assets/46251026-8802-4371-95de-1f5ce3e85b1c)
 Disponível em: https://pin.it/5EWAuWqya
-![sprite background](https://github.com/user-attachments/assets/ea166c6c-f65c-4be1-b013-8ee8efdc5615)
+![sprite background1](https://github.com/user-attachments/assets/5edce0d2-7e42-4b9c-b7ff-c9eeb5f3d13e)
 Disponível em: https://pin.it/46ArDYuHR
 ![sprite cover](https://github.com/user-attachments/assets/864c83f0-91f0-42e9-b12b-5d463b446006)
 Recursos utilizados em: https://pin.it/7nAynmA6N e https://pin.it/7alGnR0kH
@@ -29,11 +29,13 @@ autoral
 
 # Amostra do projeto
 Jogo em funcionamento
+
 ![Captura de tela 2025-04-30 191512](https://github.com/user-attachments/assets/03342015-6afe-4b0c-908c-3c8ef67217b8)
 ![Captura de tela 2025-04-30 214643](https://github.com/user-attachments/assets/54b3ebc1-4b2a-4c3a-99b2-969d2568801e)
 
 # Funcionamento do Banco de Dados "Firebase"
 De acordo com o que foi declarado na folha de eventos do construct 3, o jogo envia a pontuação do jogador para o banco de dados que foi criado, e o mesmo retorna como um "Rankig de jogadores" na tela de "Game Over" do jogador.
+
 ![Captura de tela 2025-04-30 215639](https://github.com/user-attachments/assets/34199f15-80f5-4476-b742-421d7d352289)
 ![Captura de tela 2025-04-30 215737](https://github.com/user-attachments/assets/d6c22fb2-6dd5-4e23-ad39-1782a9e24795)
 ![Captura de tela 2025-04-30 215712](https://github.com/user-attachments/assets/33c0fdf5-c5d5-46ae-ba88-9d891a3392f9)
